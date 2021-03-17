@@ -2,9 +2,9 @@
 title: 
 ---
 
-<h2> Top 10 Farmers <div style=" text-align: right;">أفضل 10 مزارعين</div></h2>
+# Top 10 Farmers أفضل 10 مزارعين
 
-Updated every Thursday after wipe <div style=" text-align: right;"> تتحدث البيانات كل خميس بعد الوايب</div>
+Updated every Thursday after wipe تتحدث البيانات كل خميس بعد الوايب
 
 | #    | Username            | Details                             |  Total |
 |-----------:|---------------------|:-----------------------------------------:|:-----|
@@ -14,7 +14,7 @@ Updated every Thursday after wipe <div style=" text-align: right;"> تتحدث �
 | 4  | Very secure         | 32534 ![Stone](https://i.imgur.com/yWuU5wX.png)  5564 ![Sulfur](https://i.imgur.com/qIHMHQf.png)  345 ![wood](https://i.imgur.com/ukswZN1.png)  3453 ![Metal](https://i.imgur.com/HhkZJFa.png)                 | 345345 |
 | 5  | Very secure         | 32534 ![Stone](https://i.imgur.com/yWuU5wX.png)  5564 ![Sulfur](https://i.imgur.com/qIHMHQf.png)  345 ![wood](https://i.imgur.com/ukswZN1.png)  3453 ![Metal](https://i.imgur.com/HhkZJFa.png)                 | 345345 |
 
-## Top 10 PVPers أفضل 10 بثرين
+# Top 10 PVPers أفضل 10 بثرين
 
 | #    | Username            | Kills                             |  Deaths |
 |-----------:|---------------------|:-----------------------------------------:|:-----|
