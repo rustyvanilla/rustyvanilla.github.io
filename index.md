@@ -2,7 +2,7 @@
 
 ## Top 10 Farmers أفضل 10 مزارعين
 | #    | Username            | Details                             |  Total |
-|-----------|---------------------|-----------------------------------------|-----|
+|-----------:|---------------------|:-----------------------------------------|:-----|
 | 1  | Very secure         | 32534x Stone, 5564x Sulfur, 345x Wood, 3453x Metal                 | 345345 |
 | 2  | Very secure         | 32534x Stone, 5564x Sulfur, 345x Wood, 3453x Metal                 | 12344 |
 | 3  | Very secure         | 32534x Stone, 5564x Sulfur, 345x Wood, 3453x Metal                 | 7567 |
