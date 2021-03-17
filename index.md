@@ -24,4 +24,4 @@ Updated every Thursday after wipe <div style=" text-align: right;"> تتحدث �
 | 4  | Very secure         | 116                 | 21 |
 | 5  | Very secure         | 63                 | 32 |
 
-Data from 11/03/2021 to 18/03/2021
+البيانات أعلاه من تاريخ 11\03\2021 الى 18\03\2021
