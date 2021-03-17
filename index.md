@@ -1,3 +1,7 @@
+---
+title: Rust Vanilla (Solo/Duo)
+---
+
 # Top 10 Farmers        أفضل 10 مزارعين
 
 Updated every Thursday after wipe               تتحدث البيانات كل خميس بعد الوايب
