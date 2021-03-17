@@ -1,6 +1,6 @@
 # Top 10 Farmers أفضل 10 مزارعين
 
-Updated every thursday after every wipe تتحدث البيانات كل خميس بعد الوايب
+Updated every Thursday after wipe تتحدث البيانات كل خميس بعد الوايب
 
 | #    | Username            | Details                             |  Total |
 |-----------:|---------------------|:-----------------------------------------:|:-----|
