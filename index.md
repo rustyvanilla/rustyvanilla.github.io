@@ -4,7 +4,7 @@ title:
 
 <h2> Top 10 Farmers <div style=" text-align: right;">أفضل 10 مزارعين</div></h2>
 
-Updated every Thursday after wipe تتحدث البيانات كل خميس بعد الوايب
+Updated every Thursday after wipe <div style=" text-align: right;"> تتحدث البيانات كل خميس بعد الوايب</div>
 
 | #    | Username            | Details                             |  Total |
 |-----------:|---------------------|:-----------------------------------------:|:-----|
