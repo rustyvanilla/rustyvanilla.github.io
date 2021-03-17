@@ -3,11 +3,12 @@ title:
 ---
 # Rust Vanilla ( Solo / Duo ) عربي
 
+![Map](https://i.imgur.com/io0wRYo.png)
 
 
 # Statistics        احصائيات
 
-Updated every Thursday after wipe <div dir="rtl">تتحدث البيانات كل خميس بعد الوايب</div>
+Updated every Thursday after wipe تتحدث البيانات كل خميس بعد الوايب
 
 ## Top 10 Farmers        أفضل 10 مزارعين
 
