@@ -2,7 +2,7 @@
 title: 
 ---
 
-<h2> Top 10 Farmers <p style=" text-align: right;">أفضل 10 مزارعين</p></h2>
+<h2> Top 10 Farmers <div style=" text-align: right;">أفضل 10 مزارعين</div></h2>
 
 Updated every Thursday after wipe تتحدث البيانات كل خميس بعد الوايب
 
