@@ -1,5 +1,5 @@
 ---
-title: 
+title: Rust Vanilla (Solo/Duo) عربي
 ---
 
 # Top 10 Farmers أفضل 10 مزارعين
